@@ -143,7 +143,9 @@ namespace CryptoSwaperBAZA
                 }
             }
         }
-
-      
+        private void ClowButtton_Click(object sender, RoutedEventArgs e)
+        {
+        MessageBox.Show("Это ещё в доработке :)");
+        }
     }
 }
